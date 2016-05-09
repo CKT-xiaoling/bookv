@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c5e183cc-00f1-4657-850c-898c2bf22137" name="bookv" url="http://119.29.203.95">
+        <fileTransfer host="119.29.203.95" port="21" rootFolder="/usr/local/apache2/htdocs" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
