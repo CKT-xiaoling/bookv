@@ -1,2 +1,2 @@
 # bookv
-git连接bookv为什么老是失败
+git连接bookv好麻烦的东西呀，操
